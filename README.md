@@ -8,21 +8,6 @@
   </samp>
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/PeterJeremiah">
-    <img width="400" align="top" src="https://github.com/PeterJeremiah/PeterJeremiah/blob/master/metrics.left.svg" />
-  </a>
-  &emsp;
-  <a href="https://github.com/TonyCrane">
-    <img width="400" align="top" src="https://github.com/PeterJeremiah/PeterJeremiah/blob/master/metrics.right.svg" />
-  </a>
-</p>
-
-
-
-
-
 ![暗色](https://raw.githubusercontent.com/zhoufanglu/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 
