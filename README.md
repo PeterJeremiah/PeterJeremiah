@@ -2,14 +2,15 @@
 
 <p align="center">
   <samp>
-    <a href="https://tonycrane.cc/">me</a> ∙
+    <a href="https://github.com/PeterJeremiah">github</a> ∙
     <a href="https://blog.tonycrane.cc/">blog</a> ∙
-    <a href="https://note.tonycrane.cc/">note</a> ∙
-    <a href="https://space.bilibili.com/171431343">bilibili</a> ∙ 
+    <a href="https://peterjeremiah.github.io/NoteBook/">note</a> ∙
+    <a href="npu-home.github.io/home">npwu-home</a> ∙ 
     <a href="https://t.me/TonyCraneSky">channel</a> ∙
     <a href="https://t.me/Tony_Crane">telegram</a>
   </samp>
 </p>
+
 
 <!-- 
 My Projects:
