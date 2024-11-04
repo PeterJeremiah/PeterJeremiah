@@ -5,15 +5,15 @@
     <a href="https://github.com/PeterJeremiah">github</a> ∙
     <a href="https://blog.tonycrane.cc/">blog</a> ∙
     <a href="https://peterjeremiah.github.io/NoteBook/">note</a> ∙
-    <a href="npu-home.github.io/home">npwu-home</a> ∙ 
+    <a href="https://npu-home.github.io/home/">npwu-home</a> ∙ 
     <a href="https://t.me/TonyCraneSky">channel</a> ∙
     <a href="https://t.me/Tony_Crane">telegram</a>
   </samp>
 </p>
 
-
 <!-- 
 My Projects:
+
 - documentation for [manim](https://github.com/3b1b/manim)
 - [manim_projects](https://github.com/TonyCrane/manim_projects): my videos made by manim
 - [OI](https://github.com/TonyCrane/OI): my codes of studying Olympiad in Informatics
