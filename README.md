@@ -1,4 +1,4 @@
-<h3 align="center"> TonyCrane / 鹤翔万里</h3>
+<h3 align="center"> PeterJeremiah / 杨明远</h3>
 
 <p align="center">
   <samp>
@@ -21,7 +21,7 @@ My Projects:
 - [manim_action_renderer](https://github.com/manim-kindergarten/manim_action_renderer): a GitHub action to render manim videos -->
 
 <!--
-**TonyCrane/TonyCrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PeterJeremiah/PeterJeremiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
