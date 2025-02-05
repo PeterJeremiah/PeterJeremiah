@@ -1,9 +1,9 @@
-<h3 align="center"> PeterJeremiah / 杨明远</h3>
+<h3 align="center"> Mingyuan Yang / 杨明远</h3>
 
 <p align="center">
   <samp>
     <a href="https://github.com/PeterJeremiah">github</a> ∙
-    <a href="https://peterjeremiah.github.io/NoteBook/">note</a> ∙
+    <a href="https://scholar.google.com.hk/citations?user=W_BeOckAAAAJ&hl=zh-CN">Google Scholar</a> ∙
     <a href="https://npu-home.github.io/home/">npwu-home</a> ∙ 
   </samp>
 </p>
@@ -11,9 +11,9 @@
 
 ## Welcome to my profile!
 
-I am **Junyuan Chen**, a postdoctoral researcher in economics.
+I am **Mingyuan Yang**, a undergraduate researcher in computer science.
 
-- 🎓 PhD in Economics from UC San Diego (2024)  
+- 🎓 Undergraduate in Computer Science from Northwestern Polytechnical University（CHN）  
 - 🌍 Macroeconomics and international trade as primary fields  
 - 📊 Skilled in handling large datasets and solving complicated models fast  
 - 📘 Enjoy learning econometrics by coding estimators from scratch  
