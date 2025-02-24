@@ -16,20 +16,20 @@ I am **Mingyuan Yang**, a undergraduate researcher in computer science.
 - 🎓 Undergraduate in Computer Science from Northwestern Polytechnical University（CHN）  
 - 🌍 Focus on the machine learning and the effective mechanism of multi-modal learning
 - 📊 Skilled in probabilistic modeling for large-scale sequential data, balancing computational efficiency with statistical robustness  
-- 📘 Enjoy exploring learning mechanisms by implementing cross-modal reasoning modules from scratch 
+- 📘 Enjoy exploring learning mechanisms by implementing cross-modal reasoning modules
 - 💻 Develop efficient and effective combination forecasting techniques utilizing machine learning methods  
 
 ### Languages and Tools
 
 [![julia][julia-img]][julia-url]
 [![python][python-img]][python-url]
-[![stata][stata-img]][stata-url]
+[![cpp][cpp-img]][cpp-url]
 [![matlab][matlab-img]][matlab-url]
 [![latex][latex-img]][latex-url]
 [![bash][bash-img]][bash-url]
 [![git][git-img]][git-url]
-[![github][github-img]][github-url]
-[![vscode][vscode-img]][vscode-url]
+[![pytorch][pytorch-img]][pytorch-url]
+[![tensorflow][tensorflow-img]][tensorflow-url]
 
 [julia-img]: https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=Julia&logoColor=white
 [julia-url]: https://julialang.org
@@ -37,8 +37,8 @@ I am **Mingyuan Yang**, a undergraduate researcher in computer science.
 [python-img]: https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white
 [python-url]: https://www.python.org
 
-[stata-img]: https://img.shields.io/badge/-Stata-3F54A3?style=for-the-badge
-[stata-url]: https://www.stata.com
+[cpp-img]: https://img.shields.io/badge/-Cpp-3F54A3?style=for-the-badge
+[cpp-url]: https://cplusplus.com/
 
 [matlab-img]: https://img.shields.io/badge/-Matlab-orange?style=for-the-badge
 [matlab-url]: https://www.mathworks.com/products/matlab.html
@@ -52,11 +52,11 @@ I am **Mingyuan Yang**, a undergraduate researcher in computer science.
 [git-img]: https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white
 [git-url]: https://git-scm.com
 
-[github-img]: https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white
-[github-url]: https://github.com
+[pytorch-img]: https://img.shields.io/badge/-PyTorch-181717?style=for-the-badge&logo=GitHub&logoColor=white
+[pytorch-url]: https://pytorch.org/
 
-[vscode-img]: https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white
-[vscode-url]: https://code.visualstudio.com
+[tensorflow-img]: https://img.shields.io/badge/-TensorFlow-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white
+[tensorflow-url]: https://www.tensorflow.org/
 
 
 ![暗色](https://raw.githubusercontent.com/zhoufanglu/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
