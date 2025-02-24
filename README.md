@@ -12,7 +12,7 @@
 
 ## Welcome to my profile!
 
-I am **Mingyuan Yang**, an undergraduate researcher in computer science.
+I am **Mingyuan Yang**, an undergraduate majoring in Computer Science.
 
 - 🎓 Undergraduate in Computer Science from Northwestern Polytechnical University(CHN)
 - 🌍 Focus on the machine learning and the effective mechanism of multi-modal learning
