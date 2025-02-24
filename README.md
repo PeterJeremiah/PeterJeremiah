@@ -14,10 +14,10 @@
 I am **Mingyuan Yang**, a undergraduate researcher in computer science.
 
 - 🎓 Undergraduate in Computer Science from Northwestern Polytechnical University（CHN）  
-- 🌍 Macroeconomics and international trade as primary fields  
-- 📊 Skilled in handling large datasets and solving complicated models fast  
-- 📘 Enjoy learning econometrics by coding estimators from scratch  
-- 💻 Write packages in Julia for high quality and reusable programs  
+- 🌍 Focus on the machine learning and the effective mechanism of multi-modal learning
+- 📊 Skilled in probabilistic modeling for large-scale sequential data, balancing computational efficiency with statistical robustness  
+- 📘 Enjoy exploring learning mechanisms by implementing cross-modal reasoning modules from scratch 
+- 💻 Develop efficient and effective combination forecasting techniques utilizing machine learning methods  
 
 ### Languages and Tools
 
