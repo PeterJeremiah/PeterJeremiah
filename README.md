@@ -14,7 +14,7 @@
 
 I am **Mingyuan Yang**, an undergraduate majoring in Computer Science.
 
-- 🎓 Undergraduate in Computer Science from Northwestern Polytechnical University(CHN)
+- 🎓 Undergraduate in Computer Science from Northwestern Polytechnical University (CHN)
 - 🌍 Focus on the machine learning and the effective mechanism of multi-modal learning
 - 📊 Skilled in probabilistic modeling for large-scale sequential data, balancing computational efficiency with statistical robustness  
 - 📘 Enjoy exploring learning mechanisms by implementing cross-modal reasoning modules
