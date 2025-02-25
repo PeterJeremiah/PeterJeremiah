@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <a href="mailto:yangmingyuan@mail.nwpu.edu.com">Email</a> ∙
+    <a href="mailto:yangmingyuan@mail.nwpu.edu.cn">Email</a> ∙
     <a href="https://scholar.google.com.hk/citations?user=W_BeOckAAAAJ&hl=zh-CN">Google Scholar</a> ∙
     <!--<a href="https://npu-home.github.io/home/">NPU-Home</a>-->
     <a href="https://peterjeremiah.github.io/">Homepage</a>
