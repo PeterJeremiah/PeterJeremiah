@@ -12,13 +12,14 @@
 
 ## Welcome to my profile!
 
-I am **Mingyuan Yang**, an undergraduate majoring in Computer Science.
+I am **Mingyuan Yang**, a master's student majoring in Management Science.
 
-- 🎓 Undergraduate in Computer Science from Northwestern Polytechnical University (CHN)
-- 🌍 Focus on diffusion language models and effective mechanism of multi-modal learning
+- 🎓 Undergraduate in Computer Science from Northwestern Polytechnical University (China)
+- 🎓 Master’s student in Management Science at the University of Chinese Academy of Sciences (UCAS)
+<!--- 🌍 Focus on diffusion language models and effective mechanism of multi-modal learning
 - 📊 Skilled in probabilistic modeling for large-scale sequential data, balancing computational efficiency with statistical robustness  
 - 📘 Enjoy exploring learning mechanisms by implementing cross-modal reasoning modules
-- 💻 Develop efficient and effective combination forecasting techniques utilizing machine learning methods  
+- 💻 Develop efficient and effective combination forecasting techniques utilizing machine learning methods  -->
 
 
 <!--
