@@ -3,7 +3,7 @@
 <p align="center">
   <samp>
     <a href="mailto:yangmingyuan@mail.nwpu.edu.cn">Email</a> ∙
-    <a href="https://scholar.google.com.hk/citations?user=W_BeOckAAAAJ&hl=zh-CN">Google Scholar</a> ∙
+    <!--<a href="https://scholar.google.com.hk/citations?user=W_BeOckAAAAJ&hl=zh-CN">Google Scholar</a> ∙-->
     <!--<a href="https://npu-home.github.io/home/">NPU-Home</a>-->
     <a href="https://peterjeremiah.github.io/">Homepage</a>
   </samp>
@@ -11,7 +11,7 @@
 
 
 ## Welcome to my profile!
-<!--
+
 I am **Mingyuan Yang**, an undergraduate majoring in Computer Science.
 
 - 🎓 Undergraduate in Computer Science from Northwestern Polytechnical University (CHN)
@@ -19,7 +19,7 @@ I am **Mingyuan Yang**, an undergraduate majoring in Computer Science.
 - 📊 Skilled in probabilistic modeling for large-scale sequential data, balancing computational efficiency with statistical robustness  
 - 📘 Enjoy exploring learning mechanisms by implementing cross-modal reasoning modules
 - 💻 Develop efficient and effective combination forecasting techniques utilizing machine learning methods  
--->
+
 
 <!--
 ![暗色](https://raw.githubusercontent.com/zhoufanglu/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
