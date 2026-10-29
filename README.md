@@ -1,53 +1,21 @@
-<h3 align="center"> Mingyuan Yang / 杨明远</h3>
+<h3 align="center">Mingyuan Yang / 杨明远</h3>
 
 <p align="center">
   <samp>
-    <a href="mailto:yangmingyuan26@mails.ucas.ac.cn">Email</a> ∙
-    <!--<a href="https://scholar.google.com.hk/citations?user=W_BeOckAAAAJ&hl=zh-CN">Google Scholar</a> ∙-->
-    <!--<a href="https://npu-home.github.io/home/">NPU-Home</a>-->
-    <!--<a href="https://peterjeremiah.github.io/">Homepage</a>-->
+    <a href="mailto:yangmingyuan26@mails.ucas.ac.cn">Email</a>
   </samp>
 </p>
 
-
 ## Welcome to my profile!
 
-I am **Mingyuan Yang**, a master's student majoring in Management Science.
+I am **Mingyuan Yang**, a student at the **University of Chinese Academy of Sciences (UCAS)**.
 
-- 🎓 Undergraduate in Computer Science from Northwestern Polytechnical University (China)
-- 🎓 Master’s student in Management Science at the University of Chinese Academy of Sciences (UCAS)
-<!--- 🌍 Focus on diffusion language models and effective mechanism of multi-modal learning
-- 📊 Skilled in probabilistic modeling for large-scale sequential data, balancing computational efficiency with statistical robustness  
-- 📘 Enjoy exploring learning mechanisms by implementing cross-modal reasoning modules
-- 💻 Develop efficient and effective combination forecasting techniques utilizing machine learning methods  -->
+- 🎓 Undergraduate studies in Computer Science at Northwestern Polytechnical University (China)
+- 🎓 Master’s student at the University of Chinese Academy of Sciences (UCAS)
 
+I am interested in applying **mathematics** across different fields, including **artificial intelligence, management science, macroeconomics, and financial engineering**.
 
-<!--
-![暗色](https://raw.githubusercontent.com/zhoufanglu/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
--->
-
-
-<!-- 
-My Projects:
-
-- documentation for [manim](https://github.com/3b1b/manim)
-- [manim_projects](https://github.com/TonyCrane/manim_projects): my videos made by manim
-- [OI](https://github.com/TonyCrane/OI): my codes of studying Olympiad in Informatics
-- [manim_sandbox](https://github.com/manim-kindergarten/manim_sandbox): some utils of manim
-- [manim_document_zh](https://github.com/manim-kindergarten/manim_document_zh): a chinese document of manim
-- [manim_action_renderer](https://github.com/manim-kindergarten/manim_action_renderer): a GitHub action to render manim videos -->
-
-<!--
-**PeterJeremiah/PeterJeremiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Investigate mathematical problems underlying artificial intelligence and seek general principles behind its methods
+- 📊 Explore algebraic geometry to understand the structure of AI models
+- 📘 Study partial differential equations and optimal transport as tools for understanding learning dynamics
+- 💻 Explore computational mathematics in macroeconomic and financial models
