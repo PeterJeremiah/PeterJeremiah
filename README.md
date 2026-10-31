@@ -10,8 +10,8 @@
 
 I am **Mingyuan Yang**, a student at the **University of Chinese Academy of Sciences (UCAS)**.
 
-- 🎓 Undergraduate studies in Computer Science at Northwestern Polytechnical University (China)
-- 🎓 Master’s student in Management Science at the University of Chinese Academy of Sciences (UCAS)
+- 🎓 Undergraduate studies in Computer Science at Northwestern Polytechnical University (NWPU)
+- 🎓 Master’s student majoring in Management Science at the University of Chinese Academy of Sciences (UCAS)
 
 I am interested in applying **mathematics** across different fields, including **artificial intelligence, management science, macroeconomics, and financial engineering**.
 
