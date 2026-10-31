@@ -18,4 +18,4 @@ I am interested in applying **mathematics** across different fields, including *
 - 🌍 Investigate mathematical problems underlying artificial intelligence and seek general principles behind its methods
 - 📊 Explore algebraic geometry to understand the structure of AI models
 - 📘 Study partial differential equations and optimal transport as tools for understanding learning dynamics
-- 💻 Explore computational mathematics in macroeconomic and financial models
+- 💻 Explore computational mathematics in Macroeconomic and Financial Engineering
