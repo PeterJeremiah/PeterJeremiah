@@ -19,3 +19,5 @@ I am interested in applying **mathematics** across different fields, including *
 - 📊 Explore algebraic geometry to understand the structure of AI models
 - 📘 Study partial differential equations and optimal transport as tools for understanding learning dynamics
 - 💻 Explore computational mathematics in Macroeconomic and Financial Engineering
+
+I am also interested in **scientific research commercialization and real-world AI applications**. I welcome conversations with **VC/PE investors, entrepreneurs, and industry partners** to explore opportunities at the intersection of research, technology, and business.
