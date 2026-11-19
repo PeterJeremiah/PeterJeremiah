@@ -15,8 +15,7 @@ I am **Mingyuan Yang**, a student at the **University of Chinese Academy of Scie
 
 I am interested in applying **mathematics** across different fields, including **artificial intelligence, management science, macroeconomics, and financial engineering**.
 
-- 🌍 Investigate mathematical principles underlying artificial intelligence, with a focus on reinforcement learning and numerical optimization
-- 📊 Explore policy optimization algorithms and parameter optimization methods through mathematical and geometric perspectives
+- 🌍 Investigate mathematical principles underlying artificial intelligence, with a focus on policy optimization algorithms (RL) and parameter optimization methods
 - 📘 Explore mathematical optimization and decision-making in Management Science and Operations Research
 - 💻 Explore computational mathematics in Macroeconomics and Financial Engineering
 
